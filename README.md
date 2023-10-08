@@ -49,6 +49,7 @@ Contributions to the backend are just as valuable as those to the frontend. If y
 
 This project is open-source and available under the [MIT License](LICENSE).
 
----
-
-You can integrate this README into your backend project. If there are any other specific details or changes you'd like to include, please let me know!
+Link to front: 
+```
+https://github.com/marzboi/nasaApp
+```
